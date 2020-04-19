@@ -1,0 +1,4 @@
+sha256sum openjdk-11+28_linux-x64_bin.tar.gz 
+
+
+sha512sum eclipse-jee-2020-03-R-incubation-linux-gtk-x86_64.tar.gz 
