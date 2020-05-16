@@ -4,11 +4,7 @@ usage() {
 	echo "$0 <user> <e-mail>"
 }
 
-if [[ -z $1 ]]; then
-	usage; exit -1
-fi
-
-if [[ -z $2 ]]; then
+if [[ -z $1 ]] || [[ -z $2 ]]; then
 	usage; exit -1
 fi
 
